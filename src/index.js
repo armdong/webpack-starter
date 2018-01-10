@@ -1,1 +1,1 @@
-require('./components/var-let-const')();
+console.log('hello world');
